@@ -41,7 +41,7 @@ nav{
 }
 
 .logo span{
-    color: rgb(34, 40, 49);
+    color: black;
 }
 
 .hamburg, .cancel{
@@ -304,5 +304,6 @@ section{
         margin-bottom: 0px;
     }
 }
+
 
 
