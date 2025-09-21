@@ -41,7 +41,7 @@ nav{
 }
 
 .logo span{
-    color: rgb(109,67, 0);
+    color: rgb(34, 40, 49);
 }
 
 .hamburg, .cancel{
@@ -195,7 +195,7 @@ section{
 
 @keyframes cursor {
     to{
-        border-left: 3px solid #b74b4b;
+        border-left: 3px solid rgb(238, 238, 238);
     }
 }
 
